@@ -5,24 +5,11 @@ This is a arduino client for reading different types of sensors, for integrating
 [comment]: <> (TODO: Add a complete guide and description for the module)
 
 ## Installation
-To edit
-
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
-
-```bash
-pip install foobar
-```
-
+Describe the installation  process for the library.
+ 
 ## Usage
 [comment]: <> (TODO: Describe the usage of the library and test program)
-
-```python
-import foobar
-
-foobar.pluralize('word') # returns 'words'
-foobar.pluralize('goose') # returns 'geese'
-foobar.singularize('phenomena') # returns 'phenomenon'
-```
+Describe how to use the library.
 
 ## Contributing
 If you want to contribute to this project you need to use the same structure and guidelines followed by this project.
